@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529516939243",
+    "project_id": "chatactivity-60e0e",
+    "storage_bucket": "chatactivity-60e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529516939243:android:e1308f40e9a6fcd8923bae",
+        "android_client_info": {
+          "package_name": "com.example.chatactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUMwG-7t_XrtoYABGH6Pn8gxWmVZtkDe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
